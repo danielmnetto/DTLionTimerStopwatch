@@ -1,0 +1,47 @@
+{
+  "$GMProject":"v1",
+  "%Name":"dtlion-timer-stopwatch",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Demo","folderPath":"folders/Demo.yy","name":"Demo","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Demo/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Demo/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Demo/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"DTLion Timer & Stopwatch","folderPath":"folders/Scripts/DTLion Timer & Stopwatch.yy","name":"DTLion Timer & Stopwatch","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.13.1.193",
+  },
+  "name":"dtlion-timer-stopwatch",
+  "resources":[
+    {"id":{"name":"fnt_liberation_serif","path":"fonts/fnt_liberation_serif/fnt_liberation_serif.yy",},},
+    {"id":{"name":"obj_dtlion_delta_stopwatch_example","path":"objects/obj_dtlion_delta_stopwatch_example/obj_dtlion_delta_stopwatch_example.yy",},},
+    {"id":{"name":"obj_dtlion_delta_timer_example","path":"objects/obj_dtlion_delta_timer_example/obj_dtlion_delta_timer_example.yy",},},
+    {"id":{"name":"obj_dtlion_frame_stopwatch_example","path":"objects/obj_dtlion_frame_stopwatch_example/obj_dtlion_frame_stopwatch_example.yy",},},
+    {"id":{"name":"obj_dtlion_frame_timer_example","path":"objects/obj_dtlion_frame_timer_example/obj_dtlion_frame_timer_example.yy",},},
+    {"id":{"name":"rm_dtlion_timer_stopwatch_examples","path":"rooms/rm_dtlion_timer_stopwatch_examples/rm_dtlion_timer_stopwatch_examples.yy",},},
+    {"id":{"name":"scr_dtlion_stopwatch","path":"scripts/scr_dtlion_stopwatch/scr_dtlion_stopwatch.yy",},},
+    {"id":{"name":"scr_dtlion_timer","path":"scripts/scr_dtlion_timer/scr_dtlion_timer.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_dtlion_timer_stopwatch_examples","path":"rooms/rm_dtlion_timer_stopwatch_examples/rm_dtlion_timer_stopwatch_examples.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

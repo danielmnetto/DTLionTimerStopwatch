@@ -1,0 +1,1 @@
+stopwatch = new DeltaStopwatch();

@@ -1,0 +1,1 @@
+timer = new FrameTimer(300);
