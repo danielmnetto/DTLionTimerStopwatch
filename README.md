@@ -1,9 +1,9 @@
 <h1 align="center">DTLion Timer & Stopwatch</h1>
-
-&nbsp;
-&nbsp;
-
 <p align="center"><strong>DTLion Timer & Stopwatch</strong> features simple, legible and intuitive timer and stopwatch system constructors for GameMaker, making it easy to control the way your timers and stopwatches work on your game.</p>
+
+&nbsp;
+
+&nbsp;
 
 ## Timer & Stopwatch Constructors
 There are four constructors to count the time:
@@ -79,3 +79,6 @@ if _current_time > 5 {
   show_debug_message("It exceeded 5 seconds.");
 }
 ````
+
+## Documentation
+The timer and stopwatch scripts contains all documentation needed about the constructors and their functions.
