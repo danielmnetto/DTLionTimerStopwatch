@@ -1,5 +1,5 @@
 <h1 align="center">DTLion Timer & Stopwatch</h1>
-<p align="center"><strong>DTLion Timer & Stopwatch</strong> features simple, legible and intuitive timer and stopwatch system constructors for GameMaker, making it easy to control the way your timers and stopwatches work on your game.</p>
+<p align="center"><strong>DTLion Timer & Stopwatch</strong> features simple, legible and intuitive timer and stopwatch system constructors for GameMaker Studio 2.3 and above, making it easy to control the way your timers and stopwatches work in your game.</p>
 
 &nbsp;
 
